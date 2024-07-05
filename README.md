@@ -20,16 +20,14 @@
 - Контроль версий: Git, GitHub
 - Базовое владение:
 	- ЯП: C#, Delphi, JavaScript,  HTML/CSS
-	- Фреймворки: Spring
+	- Фреймворки: Spring (Java), React (JS)
 	- Базы данных: PostgreSQL
-	- Docker
 
 ## Связь со мной:
 - телеграм: https://t.me/Katrin_Bnk
 - вконтакте: https://vk.com/katrin_bnk
 - почта: yekaterinabanko@gmail.com или katya.bancko@yandex.ru
 
-Учебная страница github https://github.com/BankoEV-KAI
 
 
 
