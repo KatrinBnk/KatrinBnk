@@ -19,7 +19,7 @@
 - Языки: Русский (свободно), Английский(B1, чтение документации), Украинский(свободно)
 - Контроль версий: Git, GitHub
 - Базовое владение:
-	- ЯП: C#, Delphi, JavaScript,  HTML/CSS
+	- ЯП: C#, JavaScript,  HTML/CSS
 	- Фреймворки: Spring (Java), React (JS)
 	- Базы данных: PostgreSQL
 
