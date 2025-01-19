@@ -7,26 +7,31 @@
 **Цифровая кафедра на базе КНИТУ-КАИ**
 
   2023-2024, Разработка мобильных приложений и интернет сервисов 
+  2024-2025, Цифровизация бизнес процессов 
  
 **Онлайн и офлайн курсы**
 
   - Поколение Python от BEEGEEK (2022)
   - Arf of soft skills от РШП (2022)
   - html css js от WEB HACKER (2023)
+  - Прохождение практики в Барс Групп (2024) (фронтенд разработка, React)
 
 ## Навыки:
-- Языки программирования: Java, C++, Python
+- Языки программирования: Java, C++, Python, JS/TS, HTML/CSS
 - Языки: Русский (свободно), Английский(B1, чтение документации), Украинский(свободно)
 - Контроль версий: Git, GitHub
+- Работа с базами данных: SQLite, PostgreSQL, SQL. 
+- Фреймворки:
+  	- Фронтенд: React, Vue 3.
+  	- Бекенд: Flask. 
 - Базовое владение:
-	- ЯП: C#, JavaScript,  HTML/CSS
-	- Фреймворки: Spring (Java), React (JS)
-	- Базы данных: PostgreSQL
+	- Spring (Java)
+   	- Redis
 
 ## Связь со мной:
 - телеграм: https://t.me/Katrin_Bnk
 - вконтакте: https://vk.com/katrin_bnk
-- почта: yekaterinabanko@gmail.com или katya.bancko@yandex.ru
+- почта: yekaterina@bankoev.ru
 
 
 
